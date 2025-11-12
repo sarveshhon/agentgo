@@ -19,3 +19,4 @@ cd agentgo
 go mod tidy
 go run agent.go web api webui
 # Access webui at http://localhost:8080/
+```
