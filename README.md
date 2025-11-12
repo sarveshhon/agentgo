@@ -1,4 +1,4 @@
-# Codepair
+# AgentGo
 I recently built a lightweight AI agent in Go using the Google Agent Development Kit (ADK) that fetches real-time weather for any city. It’s a simple but powerful demo of how ADK can be used with custom tools and agents—even outside Python ecosystems.
 
 ## Screenshots
