@@ -5,7 +5,7 @@ I recently built a lightweight AI agent in Go using the Google Agent Development
 
 ![App Screenshot](screenshots/image1.png)
 
-## Codepair Demo Video
+## AgentGo Demo Video
 <div style="display: inline-flex; align-items: center;">
   <a href="https://youtu.be/O32zQwxmixI" target="_blank" style="display: inline-block;">
     <img src="screenshots/image1.png" style="width: 100%; display: block;">
